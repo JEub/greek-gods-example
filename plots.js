@@ -21,7 +21,7 @@ var traceData = [trace1, trace2];
 
 // Apply the group barmode to the layout
 var layout = {
-  title: "Greek vs Roman gods search results",
+  title: "Greek vs Roman",
   barmode: "group"
 };
 
